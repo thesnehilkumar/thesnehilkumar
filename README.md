@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm [Snehil Kumar], a passionate 2nd-year BCA student on a journey to explore the fascinating world of cyber security and programming. I embarked on this exciting adventure in the field of technology earlier this year and have been dedicated to learning, growing, and building my skills ever since.
+Hello! I'm Snehil Kumar, a passionate 2nd-year BCA student on a journey to explore the fascinating world of cyber security and programming. I embarked on this exciting adventure in the field of technology earlier this year and have been dedicated to learning, growing, and building my skills ever since.
 
 ## What I'm Currently Up To
 
